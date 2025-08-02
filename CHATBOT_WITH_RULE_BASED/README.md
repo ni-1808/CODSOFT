@@ -37,7 +37,10 @@ This is a beginner-friendly, **rule-based chatbot** built using Python. It uses 
 
 
 ##Sample Output
-<img width="1583" height="404" alt="Screenshot 2025-07-23 203222" src="https://github.com/user-attachments/assets/7bd45612-b82c-4f57-b71c-8b327d87526e" />
+
+
+<img width="1583" height="404" alt="Screenshot 2025-07-23 203222" src="https://github.com/user-attachments/assets/4976d15e-d24c-4ccc-b20d-7b56af6ef62b" />
+
 
 
 
