@@ -21,3 +21,9 @@ The AI uses the **Minimax** algorithm to evaluate all possible moves and always 
 
    ```bash
    python tic_tac_toe.py
+
+
+
+## output
+<img width="724" height="900" alt="Screenshot 2025-07-23 203748" src="https://github.com/user-attachments/assets/576ae3fc-b8a0-43f0-badd-e294931ff3e5" />
+
