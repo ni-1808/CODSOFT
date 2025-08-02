@@ -55,10 +55,6 @@ project-folder/
 git clone https://github.com/yourusername/Moviesrecommand.git
 cd Moviesrecommand
 
-
-
-
-
 ## Download & Extract Dataset
 --Movielens 100k 
 download the dataset on the  form this link --https://files.grouplens.org/datasets/movielens/ml-100k.zip--
