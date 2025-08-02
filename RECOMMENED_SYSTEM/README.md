@@ -9,7 +9,8 @@ This app recommends movies to users based on the ratings of other similar users 
 ## 📸 Output
 
 
-<img width="1014" height="889" alt="Screenshot 2025-07-23 203525" src="https://github.com/user-attachments/assets/dfb00da1-cb1a-41e8-ae11-45ee7b1967f0" />
+<img width="1014" height="889" alt="Screenshot 2025-07-23 203525" src="https://github.com/user-attachments/assets/dd0795af-5920-4f71-b098-ac3d22c4d8d4" />
+
 
  <!-- Optional -->
 
